@@ -77,11 +77,6 @@ The site is connected to my personal interests and field of study, demonstrating
 
 ---
 
-## 📸 Preview
-
-> Screenshots of the website are available in the `/screenshots` folder.
-
----
 
 ## 👤 Author
 
