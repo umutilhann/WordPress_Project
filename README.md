@@ -80,7 +80,7 @@ The site is connected to my personal interests and field of study, demonstrating
 
 ## 👤 Author
 
-**Eres Mustay**
+**Umut ILHAN**
 Politechnika Bydgoska
 Faculty of Telecommunications, Computer Science and Electrical Engineering
 
